@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\OLD DOCS\\Adatok\\Egyetem\\Bead 2020-21 01\\Forditoprogramok\\munka2_lev_recautomaton\\munka2_lev_recautomaton.csproj": {}
+  },
+  "projects": {
+    "F:\\OLD DOCS\\Adatok\\Egyetem\\Bead 2020-21 01\\Forditoprogramok\\munka2_lev_recautomaton\\munka2_lev_recautomaton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\OLD DOCS\\Adatok\\Egyetem\\Bead 2020-21 01\\Forditoprogramok\\munka2_lev_recautomaton\\munka2_lev_recautomaton.csproj",
+        "projectName": "munka2_lev_recautomaton",
+        "projectPath": "F:\\OLD DOCS\\Adatok\\Egyetem\\Bead 2020-21 01\\Forditoprogramok\\munka2_lev_recautomaton\\munka2_lev_recautomaton.csproj",
+        "packagesPath": "C:\\Users\\VeresPC\\.nuget\\packages\\",
+        "outputPath": "F:\\OLD DOCS\\Adatok\\Egyetem\\Bead 2020-21 01\\Forditoprogramok\\munka2_lev_recautomaton\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VeresPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

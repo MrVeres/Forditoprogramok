@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "munka2_lev_recautomaton/1.0.0": {
+        "runtime": {
+          "munka2_lev_recautomaton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "munka2_lev_recautomaton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
